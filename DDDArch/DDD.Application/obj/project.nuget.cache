@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rTWwG1+Ejpn987ESOmSQ0gf+xhszXgryClELzfWknNxUm4eG7yxiB8Y+0+ToqrxYx0rVJyM5vF4PuZMzU+Z1eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trusv\\RiderProjects\\DDDArch\\DDD.Application\\DDD.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trusv\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\trusv\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\trusv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

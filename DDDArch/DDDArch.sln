@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1D61032F-D0BD-4322-84F8-F8EC356810CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Application", "DDD.Application\DDD.Application.csproj", "{CD1ACE53-A751-4F00-A539-FA0ADE335698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Domain", "DDD.Domain\DDD.Domain.csproj", "{91EFC279-057E-4686-BF10-607D0AB4D972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD1ACE53-A751-4F00-A539-FA0ADE335698} = {1D61032F-D0BD-4322-84F8-F8EC356810CC}
+		{91EFC279-057E-4686-BF10-607D0AB4D972} = {1D61032F-D0BD-4322-84F8-F8EC356810CC}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD1ACE53-A751-4F00-A539-FA0ADE335698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1ACE53-A751-4F00-A539-FA0ADE335698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1ACE53-A751-4F00-A539-FA0ADE335698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1ACE53-A751-4F00-A539-FA0ADE335698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EFC279-057E-4686-BF10-607D0AB4D972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EFC279-057E-4686-BF10-607D0AB4D972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EFC279-057E-4686-BF10-607D0AB4D972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EFC279-057E-4686-BF10-607D0AB4D972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
